@@ -13,7 +13,20 @@ public class Student {
     
     private String name;
     private int studentID;
-    
+
+    public int getStudentID() {
+        return studentID;
+    }
+    private String email;
+
+    public String getEmail() {
+        return email;
+    }
+    private String Grade;
+
+    public String getGrade() {
+        return Grade;
+    }
     
     public String getName() {
         return name;
