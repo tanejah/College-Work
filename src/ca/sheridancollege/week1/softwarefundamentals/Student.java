@@ -6,7 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- *
+ *Harshil Taneja
  *Date : 20 january 2020
  */
 public class Student {
