@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
+    private String Status;
     private int studentID;
 
     public int getStudentID() {
